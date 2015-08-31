@@ -7,6 +7,12 @@
 - The list of IPs to be ignored should be formatted one per line in a plain text file
 - Currently it only searches based on destination IP
 
+## Requisites
+- pypcapfile
+```sh
+pip install pypcapfile
+```
+
 ## Example
 ```sh
 python pcapFilter.py -x ignore.txt cap1.pcap cap2.pcap
