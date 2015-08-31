@@ -1,6 +1,6 @@
 # PCAP Filter
 
-** A Python script that can be used to filter several .pcap files to find similar information between them
+** A Python script that can be used to filter several .pcap files to find similar information between them **
 
 - Several .pcap files can be supplied to the script as command line arguments
 - The '-x' option can be used to pass a list of IP addresses to be ignored (ex. Google)
